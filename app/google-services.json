@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614300210970",
+    "project_id": "fireandroid-815da",
+    "storage_bucket": "fireandroid-815da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614300210970:android:7eb73e53d9f6d3fabd7ea3",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614300210970-1hshrahchmas44f0stfsre4b9jh5hv39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7TDFHdCNJeg95rBIghv7a37dS5tI-V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614300210970-1hshrahchmas44f0stfsre4b9jh5hv39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
